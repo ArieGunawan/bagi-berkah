@@ -2,7 +2,7 @@
 
 @section('container')
     <div class="flex justify-center mt-32 ">
-        <img class="w-5/12 rounded-lg" src="storage/blog-photos/berbagi.jpg" alt="">
+        <img class="w-5/12 rounded-lg" src="img/berbagi.jpg" alt="">
     </div>
 
     <div class="flex justify-center mt-5">
